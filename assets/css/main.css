@@ -241,6 +241,10 @@
 
 	}
 
+.modal-content {
+	padding: 2em;
+}
+
 /* Grid */
 
 	.row {
